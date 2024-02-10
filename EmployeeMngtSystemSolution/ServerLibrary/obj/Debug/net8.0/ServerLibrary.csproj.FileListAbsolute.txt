@@ -1,0 +1,15 @@
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.deps.json
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.runtimeconfig.json
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.dll
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\bin\Debug\net8.0\ServerLibrary.pdb
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.AssemblyReference.cache
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfoInputs.cache
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.AssemblyInfo.cs
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.sourcelink.json
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.dll
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\refint\ServerLibrary.dll
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
