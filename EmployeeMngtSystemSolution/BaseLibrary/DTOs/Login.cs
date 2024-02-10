@@ -1,7 +1,7 @@
 ﻿
 namespace BaseLibrary.DTOs
 {
-    internal class Login : AccountBase
+    public class Login : AccountBase
     {
     }
 }
