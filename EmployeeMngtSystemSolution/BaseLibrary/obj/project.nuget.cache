@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Ej2Q0xZphz32v+yCmIH5uhwYGbPtfybHOuTt+miOLvXCYLrkG5oGxLhuTp3JmjRmAYTG1wYoH7v40+oV4ofl3A==",
+  "dgSpecHash": "QT+JT8uISDksbe5Oaqc/r041kDRmjMX3jRoi88Rmsb22adY23zENTk4DQYmneFU9nlQXoiElXXATNef4wF/g9A==",
   "success": true,
   "projectFilePath": "C:\\Users\\coxmu\\OneDrive\\Desktop\\Assignment\\EmplyMngSyst\\EmployeeMngtSystemSolution\\BaseLibrary\\BaseLibrary.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\coxmu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

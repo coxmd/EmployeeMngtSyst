@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XKU/ChsZRvOQDsP/vx9S3EKloA2fFP58H/Pbnb6Bz+gd29o3BoOT5iryM4UV8KhxiCIOlYs67jYKnFVfJAnBTA==",
+  "dgSpecHash": "f7ZWnHQYDytMmCvzo0SnnWK/W2JDIoN3LvV9EdEDcRa59jL372vzi7nLYovgNY/NUY7H2vRyWJn5l/QjeQ700w==",
   "success": true,
   "projectFilePath": "C:\\Users\\coxmu\\OneDrive\\Desktop\\Assignment\\EmplyMngSyst\\EmployeeMngtSystemSolution\\Client\\Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\coxmu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.1\\microsoft.aspnetcore.authorization.8.0.1.nupkg.sha512",
     "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.1\\microsoft.aspnetcore.components.8.0.1.nupkg.sha512",
     "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.1\\microsoft.aspnetcore.components.analyzers.8.0.1.nupkg.sha512",
@@ -12,6 +13,7 @@
     "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.1\\microsoft.aspnetcore.components.webassembly.8.0.1.nupkg.sha512",
     "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\8.0.1\\microsoft.aspnetcore.components.webassembly.devserver.8.0.1.nupkg.sha512",
     "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.aspnetcore.metadata\\8.0.1\\microsoft.aspnetcore.metadata.8.0.1.nupkg.sha512",
+    "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
     "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\coxmu\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.1\\microsoft.extensions.configuration.binder.8.0.1.nupkg.sha512",

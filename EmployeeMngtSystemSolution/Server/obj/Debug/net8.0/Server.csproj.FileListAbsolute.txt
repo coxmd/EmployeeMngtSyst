@@ -144,3 +144,4 @@ C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSoluti
 C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\Server\obj\Debug\net8.0\Server.pdb
 C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\Server\obj\Debug\net8.0\Server.genruntimeconfig.cache
 C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\Server\obj\Debug\net8.0\ref\Server.dll
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\Server\bin\Debug\net8.0\AutoMapper.dll

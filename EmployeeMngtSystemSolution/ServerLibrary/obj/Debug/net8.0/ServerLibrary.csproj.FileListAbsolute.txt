@@ -13,3 +13,6 @@ C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSoluti
 C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.pdb
 C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.genruntimeconfig.cache
 C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ref\ServerLibrary.dll
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\bin\Debug\net8.0\BaseLibrary.pdb
+C:\Users\coxmu\OneDrive\Desktop\Assignment\EmplyMngSyst\EmployeeMngtSystemSolution\ServerLibrary\obj\Debug\net8.0\ServerLibrary.csproj.CopyComplete
